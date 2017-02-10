@@ -262,8 +262,16 @@
     position: relative;
     margin-bottom: 40px;    
     background-image: url("../images/portfolio_line.png");
-    height: 3px;
+    height: 2px;
     line-height: 13px;
+    padding-top: 5px;
+}
+
+.heading > div {
+    position: relative;
+    margin-top: 2px;
+    background-color: #463f3a;
+    height: 1px;
 }
 
 .heading > h1 {
