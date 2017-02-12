@@ -284,6 +284,7 @@
     background: #fafafa;
     left: 35%;
     top: -0.8em;
+    z-index: 1;
 }
 
 .heading > img {
